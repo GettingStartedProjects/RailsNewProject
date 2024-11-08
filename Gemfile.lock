@@ -365,10 +365,10 @@ DEPENDENCIES
   debug
   importmap-rails
   jbuilder
-  kamal (>= 2.0.0.rc2)
+  kamal
   propshaft
   puma (>= 5.0)
-  rails (~> 8.0.0.beta1)
+  rails (~> 8.0.0.rc1)
   rubocop-rails-omakase
   selenium-webdriver
   solid_cable
